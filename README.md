@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+This is an exercise in editing and commenting on code. 
